@@ -1,7 +1,7 @@
 #ifndef DEFINITIONS_H
 #define DEFINITIONS_H
 
-#define AP_SSID "ESP32-Deauther"
+#define AP_SSID "DESKTOP-8G2KF3L_1234"
 #define AP_PASS "esp32wroom32"
 #define LED 2
 #define SERIAL_DEBUG
